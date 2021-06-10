@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>images/myCircle.png</file>
+        <file>images/myEllipse.png</file>
+        <file>images/myLine.png</file>
+        <file>images/myOpen.png</file>
+        <file>images/myPainter.png</file>
+        <file>images/myPencil.png</file>
+        <file>images/myRectangle.png</file>
+        <file>images/mySave.png</file>
+        <file>images/mySaveAs.png</file>
+        <file>images/myTextArea.png</file>
+        <file>images/myUndo.png</file>
+        <file>images/blue.png</file>
+        <file>images/green.png</file>
+        <file>images/pink.png</file>
+        <file>images/red.png</file>
+        <file>images/yellow.png</file>
+        <file>images/italy.png</file>
+        <file>images/bold.png</file>
+    </qresource>
+</RCC>
